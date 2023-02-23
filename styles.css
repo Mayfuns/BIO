@@ -1,0 +1,150 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Manrope", sans-serif;
+  background-color: #080808;
+}
+
+footer {
+  background: #080808;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 5%;
+  align-items: center;
+}
+/* .footer-logo { */
+/* display: flex; */
+/* gap: 170px; */
+/* color: white; */
+/* } */
+
+.lg {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.log img {
+  width: 70%;
+}
+.lg p {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 50px;
+  margin-left: -20px;
+}
+
+.md {
+  display: flex;
+  gap: 20px;
+}
+.ad p {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+}
+
+main {
+  margin: 0px 200px;
+  height: 1205px;
+  width: 1512px;
+}
+.home {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.abt {
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+}
+.second {
+  display: flex;
+  height: 479px;
+  width: 50%;
+  margin-top: 90px;
+  color: #fff;
+  gap: 390px;
+}
+
+.third {
+  background-color: #fff;
+  display: flex;
+  height: 438px;
+  gap: 20px;
+  width: 1512px;
+}
+
+#hireme {
+  background-color: blue;
+  color: #fff;
+  border: 3px solid blue;
+  height: 44px;
+  width: 160px;
+  border-radius: 8px;
+}
+
+#seemy {
+  background-color: blue;
+  color: #fff;
+  border: 3px solid blue;
+  height: 44px;
+  width: 160px;
+  border-radius: 8px;
+}
+.give {
+  margin-top: 30px;
+}
+
+.pic4 {
+  width: 516px;
+  margin-top: 32px;
+  margin-left: 120px;
+}
+.word2 {
+  margin-top: 32px;
+  padding: 16px 24px;
+}
+.word2 h3 {
+  font-size: 32px;
+  font-weight: 600;
+  font-family: "Halant", serif;
+}
+
+.word2 p {
+  font-size: 24px;
+  font-weight: 400;
+  font-family: "Manrope";
+}
+
+.word1 {
+  height: 535px;
+  color: white;
+  padding-left: 100px;
+}
+.word2 h2 {
+  font-size: 20px;
+  line-height: 48px;
+  letter-spacing: 0.5px;
+}
+#antony {
+  font-size: 56px;
+  font-weight: 600;
+  font-family: "Halant", serif;
+}
+.word1 p {
+  font-size: 32px;
+  font-family: "Manrope";
+  font-weight: 500;
+  line-height: 48px;
+  width: 840px;
+}
+.second img {
+  left: 949px;
+  margin-left: 0px;
+}
